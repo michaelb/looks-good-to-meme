@@ -14,6 +14,7 @@ imgflip, programmerhumor.io and places...
 ## what you're here for
 
 ![](./memes/a_small_price_to_pay_for_perf_320px.png)
+![](./memes/ci_fail_320px.png)
 ![](./memes/code_duplication_320px.png)
 ![](./memes/fix_it_later_320px.png)
 ![](./memes/forgot_to_git_add_320px.png)
