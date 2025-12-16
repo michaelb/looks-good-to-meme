@@ -18,6 +18,7 @@ imgflip, programmerhumor.io and places...
 ![](./memes/hieroglyph_code_320px.png)
 ![](./memes/its_blank_320px.png)
 ![](./memes/i_was_there_when_it_was_written_320px.png)
+![](./memes/ofc_i_know_him_320px.png)
 ![](./memes/once_again_ask_for_a_review_bernie_320px.png)
 ![](./memes/pr_bikeshed_320px.png)
 ![](./memes/this_is_fine_320px.png)
