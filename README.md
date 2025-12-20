@@ -1,18 +1,21 @@
 # looks-good-to-meme
 
 Fun and maybe useful memes to spice up your code review,
-with reasonable and consistent image sizes.
+with reasonable (aka small) and consistent image sizes.
 
-Feel free to browse and borrow, and no need to cite
-this as source, either way it's mostly stolen out of
-imgflip, programmerhumor.io and places...
+
+Feel free to browse and "borrow"
+
+I accept PRs provided I find the meme unique and funny and
+it passes the "edgy colleague borderline in depression had
+a laugh" check.
 
 
 ## what you're here for
 
 ![](./memes/a_small_price_to_pay_for_perf_320px.png)
 ![](./memes/code_duplication_320px.png)
-![](./memes/hieroglyph_code_320px.png)
+![](./memes/confused_320px.png)
 ![](./memes/i_open_and_close_tickets_320px.png)
 ![](./memes/i_was_there_when_it_was_written_320px.png)
 ![](./memes/ofc_i_know_him_320px.png)
