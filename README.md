@@ -11,7 +11,6 @@ imgflip, programmerhumor.io and places...
 ## what you're here for
 
 ![](./memes/a_small_price_to_pay_for_perf_320px.png)
-![](./memes/ci_fail_320px.png)
 ![](./memes/code_duplication_320px.png)
 ![](./memes/hieroglyph_code_320px.png)
 ![](./memes/i_open_and_close_tickets_320px.png)
@@ -19,6 +18,7 @@ imgflip, programmerhumor.io and places...
 ![](./memes/ofc_i_know_him_320px.png)
 ![](./memes/once_again_ask_for_a_review_bernie_320px.png)
 ![](./memes/pr_bikeshed_320px.png)
+![](./memes/sacrifice_320px.png)
 ![](./memes/this_is_fine_320px.png)
 ![](./memes/ub_320px.png)
 ![](./memes/wtf_design_320px.png)
